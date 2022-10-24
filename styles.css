@@ -123,6 +123,14 @@ h4{
     height:100%;
 }
 
+.bannerescuela{
+    background-image:url(/assets/escuela.jpg);
+    background-size:100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    height:100%;
+}
+
 #banner h2{
     font-size: 5em;
     color:white;
