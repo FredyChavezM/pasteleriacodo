@@ -706,8 +706,13 @@ td{
         padding:1rem;
         display: flex; 
         flex-direction: column;
-        grid-gap:1em;
+        grid-gap:.5em;
         text-align: center;
+    }
+
+    header ul li a{
+        padding: 0.5em;
+        margin:0;
     }
 
     #banner div:first-child{
