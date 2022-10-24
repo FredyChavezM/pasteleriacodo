@@ -467,8 +467,9 @@ footer .col1{
     padding:0.3em 0
 }
 
+
 footer .col0{
-    color:white
+    color:#FA535F
 }
 
 footer .col2{
@@ -745,8 +746,14 @@ td{
     
     #historia .container aside #imgfade{
        position:relative;
-       width:450px;
+       width:430px;
        margin:auto
+    }
+
+    #academia .container{
+        width:80%;
+        margin:auto
+
     }
 
     footer .container{
@@ -754,6 +761,7 @@ td{
         flex-direction: column;
         text-align: center;
     }
+
 
     footer .container p{
         margin:1rem 0
